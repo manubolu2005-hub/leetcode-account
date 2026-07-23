@@ -1,16 +1,2 @@
 # leetcode-account
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/manubolu2005-hub/leetcode-account/tree/master/0003-longest-substring-without-repeating-characters) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/manubolu2005-hub/leetcode-account/tree/master/0003-longest-substring-without-repeating-characters) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/manubolu2005-hub/leetcode-account/tree/master/0003-longest-substring-without-repeating-characters) |
-<!---LeetCode Topics End-->
+![LeetCode Stats](https://leetcard.jacoblin.cool/manubolutharun2005?theme=light&font=Original%20Surfer)
